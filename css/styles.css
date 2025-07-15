@@ -38,7 +38,9 @@ nav ul li{
   font-weight: bold;
   padding: 150px 550px;
 }
-
+ .sign{
+  list-style: none;
+ }
 .text-style{
 text-align: center;
 
