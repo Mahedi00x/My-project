@@ -1,0 +1,354 @@
+
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/*nav style*/
+
+nav{
+    display:flex;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 50px;
+    justify-content: space-between;
+    color:#4E47FF
+}
+.nav-title {
+    font-size: 34px;
+    font-weight: 800;
+
+}
+
+
+nav ul li{
+  list-style: none;
+}
+
+.banner-content{
+  font-size: 65px;
+  font-weight: bold;
+  padding: 150px 550px;
+}
+
+.text-style{
+text-align: center;
+
+}
+
+.banner{
+  margin-top: -120px;
+}
+.header{
+  background-image: url(/Assets/Hero-bg.png);
+  height: 698px;
+}
+
+
+.btn{
+    display:flex;
+    margin-top: 60px ;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12px 36px;
+}
+
+.h3-style{
+  font-size: 42px;
+}
+
+
+.paragraph-style{
+  font-size: 24px;
+  color: #25243253;
+  
+}
+
+
+.banner-2{
+  display: flex;
+  justify-content: space-between;
+  padding: 116px 160px 141px;
+}
+
+
+.wc-mini{
+  border-radius: 48px;
+}
+
+
+
+
+
+.long-break{
+  margin-top: 600px;
+  text-align: center;
+}
+
+.stl{
+  font-size: 38px;
+  font-weight: bold;
+  padding-top: 50px;
+  
+}
+
+.container {
+  width: 90%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.stat-box {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  
+}
+
+.h3-2{
+  color: #4E47FF;
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.section-title{
+  margin: 120px 160px;
+  border-radius: 24px;
+}
+
+.common{
+  margin-top: 0px;
+  color: #818190;
+  text-align: center;
+}
+
+.review {
+  font-size: 42px;
+  font-weight: bold;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.review-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.star {
+  background-color: #fff;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+  width: 300px;
+  text-align: left;
+}
+
+.stars {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 12px;
+}
+
+.stars img {
+  width: 18px;
+  height: 18px;
+}
+
+.reviewer-box {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 8px;
+  color: #1a1a1a;
+}
+
+.reviwer-text {
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 16px;
+}
+
+.reviewer {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.reviewer img {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.reviewer-info {
+  font-size: 0.9rem;
+  color: #888;
+}
+
+.reviewer-info span {
+  display: block;
+}
+
+
+.img-section{
+  border-radius: 48px;
+  
+}
+
+.img-bg{
+  width: 840px;
+  height: 367px;
+  border-radius: 48px;
+  justify-content: center;
+  
+}
+
+.main-focus{
+  text-align: center;
+  margin: 150px;
+  padding: 50px 150px 71px;
+
+}
+
+.focus{
+  color: #252432;
+}
+
+.h1-style{
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.p-color{
+  color: #AFAFAF;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.column{
+  display: flex;
+  justify-content: space-between;
+  margin: 93px 150px 14px 180px;
+  
+}
+
+.new-h3{
+  font-size: 97px;
+  font-weight: bold;
+  height: 232px;
+  width: 528px;
+  padding-bottom: 50px;
+}
+
+.form-common-style{
+  width: 350px;
+  height: 20px;
+  padding: 20px 32px;
+  border-radius: 10px;
+  border-style: none;
+}
+
+.form-style{
+  text-align: left;
+}
+
+
+.bg-color{
+  background-color:#e0e7ff;
+}
+
+.bg-color-1{
+  background-color: #ffffff;
+
+}
+
+.bg-color-2{
+  background-color: #F5F8FF;
+}
+
+
+.message-height{
+  height: 70px;
+}
+
+.button-size{
+  width: 415px;
+}
+
+
+/*footer*/
+
+.footer-section{
+  
+
+}
+
+.footer-style{
+  text-align: center;
+  
+}
+
+.list-style{
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  color: #8987A1;
+  margin-top: -10px;
+}
+
+.h1-logo{
+  font-size: 80px;
+  font-weight: bold;
+  color: #4E47FF;
+}
+
+.footer-bg{
+  background-color: #FFFFFF;
+  margin: -20px;
+  padding-top: 20px;
+ 
+}
+
+.p-form-common{
+  font-size: 13px;
+  font-weight: medium;
+}
+
+.fotter-p{
+  font-size: 14px;
+  color: #9795AC;
+  height: 48px;
+  width: 531px;
+  margin-left: 700px;
+}
+
+/*shared style*/
+
+
+
+.button-color{
+    background-color: #4E47FF;
+    color: #FFFFFF;
+
+}
+
+.button-style{
+    border: none;
+    border-radius: 10px;
+    padding: 12px 36px;
+    font-size: 16px;
+    font-weight: bold;
+    font-size: 16px;
+
+}
